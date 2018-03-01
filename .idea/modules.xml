@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$USER_HOME$/jesse-me/.idea/jesse-me.iml" filepath="$USER_HOME$/jesse-me/.idea/jesse-me.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/pdf-merge.iml" filepath="$PROJECT_DIR$/.idea/pdf-merge.iml" />
-    </modules>
-  </component>
-</project>
