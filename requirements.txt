@@ -3,3 +3,4 @@ flask
 PyPDF2
 flask
 flask-script
+gunicorn
