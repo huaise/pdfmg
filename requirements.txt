@@ -1,0 +1,5 @@
+pdfminer3k
+flask
+PyPDF2
+flask
+flask-script
